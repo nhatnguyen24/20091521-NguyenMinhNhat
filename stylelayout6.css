@@ -1,0 +1,55 @@
+*{
+    padding: 0px;margin: auto;
+}
+.wrapper{
+    height: 550px;
+    width: 1089px;
+    background-color: antiquewhite;
+}
+header{
+    height: 50px;
+    width: 1089px;
+    background-color: rgb(32, 228, 58);
+}
+nav{
+    height: 50px;
+    width: 1089px;
+    background-color: rgb(48, 30, 155);
+}
+.content{
+    height: 450px;
+    width: 1089px;
+    background-color: rgb(156, 8, 33);
+}
+aside{
+    height: 450px;
+    width: 80%;
+    background-color: rgb(206, 24, 64);
+    float: left;
+    
+}
+article{
+    height: 30%;
+    width: 90%;
+    background-color: antiquewhite;
+    margin: 30px;
+}
+article{
+    height: 30%;
+    width: 90%;
+    background-color: rgb(13, 150, 58);
+    margin: 60px;
+    
+}
+section{
+    height: 450px;
+    width: 20%;
+    background-color: rgb(158, 168, 17);
+    float: left;
+}
+footer{
+    height: 50px;
+    width: 1089px;
+    background-color: rgb(33, 130, 175);
+    
+} 

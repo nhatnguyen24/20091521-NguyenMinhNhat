@@ -1,0 +1,35 @@
+*{
+    padding: 0px;margin: auto;
+}
+    .wrapper{
+        height: 550px;
+        width: 1098px;
+        background-color: antiquewhite;
+    }
+    header{
+        height: 50px;
+        width: 1098px;
+        background-color: rgb(165, 101, 18); 
+    }
+    menu{
+        height: 50px;
+        width: 1098px;
+        background-color: rgb(96, 184, 25);
+    }
+    nav{
+        height: 450px;
+        width: 30%;
+        background-color: rgb(181, 202, 62);
+        float: left;
+    }
+    .content{
+        height: 450px;
+        width: 30%;
+        background-color: rgb(126, 14, 88);
+        float: right;
+    }
+    footer{
+        height: 50px;
+        width: 1098px;
+        background-color: rgb(62, 36, 156);
+    }

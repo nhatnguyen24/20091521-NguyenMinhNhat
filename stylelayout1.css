@@ -1,0 +1,24 @@
+*{
+    padding: 0px;margin: auto;
+}
+.wrapper{
+    height: 500px;
+    width: 1089px;
+    background-color: rgb(173, 133, 22);
+}
+header{
+    height: 50px;
+    width: 1089px;
+    background-color: rgb(178, 204, 28);
+    border-radius: 3px;
+}
+.content{
+    height: 450px;
+    width: 1089px;
+    background-color: aqua;
+}
+footer{
+    height: 50px;
+    width: 1089px;
+    background-color: black;
+}

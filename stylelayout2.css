@@ -1,0 +1,30 @@
+*{
+    padding: 0px;margin: auto;
+}
+.wrapper{
+    height: 500px;
+    width: 1089px;
+    background-color: antiquewhite;
+}
+header{
+    height: 50px;
+    width: 1089px;
+    background-color: rgb(30, 199, 44);
+}
+nav{
+    height: 450px;
+    width: 30%;
+    background-color: rgb(209, 136, 40);
+    float: left;
+}
+.content{
+    height: 450px;
+    width: 30%;
+    background-color: rgb(96, 206, 33);
+    float: right;
+}
+footer{
+    height: 50px;
+    width: 1089px;
+    background-color: rgb(179, 119, 42);
+}

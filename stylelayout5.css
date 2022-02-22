@@ -1,0 +1,36 @@
+*{
+    padding: 0px;margin: auto;
+}
+.wrapper{
+     height: 520px;
+     width: 1089px;
+     background-color: antiquewhite;
+}
+header{
+    height: 50px;
+     width: 1089px;
+     background-color: rgb(16, 201, 32);
+}
+nav{
+    height: 40px;
+     width: 1089px;
+     background-color: rgb(10, 116, 93);
+} 
+.content{
+    height: 450px;
+     width: 1089px;
+     background-color: rgb(156, 13, 49);
+     float: right;
+}
+aside{
+    height: 70%;
+     width: 90%;
+     background-color: rgb(197, 121, 21);
+     margin: 50px;
+    
+}
+footer{
+    height: 50px;
+     width: 1089px;
+     background-color: rgb(9, 86, 109);
+}
